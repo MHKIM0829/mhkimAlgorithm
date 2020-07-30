@@ -1,0 +1,20 @@
+{
+  "name": "mhkimAlgorithm",
+  "version": "1.0.0",
+  "description": "- [알고리즘 문제 001](./exam001/001-lv1.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MHKIM0829/mhkimAlgorithm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MHKIM0829/mhkimAlgorithm/issues"
+  },
+  "homepage": "https://github.com/MHKIM0829/mhkimAlgorithm#readme"
+}
