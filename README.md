@@ -2,7 +2,8 @@
 
 ### 알고리즘 기본강의
 
-- [알고리즘 및 Javascript 기초강의](./lec001/lec001.md)
+- [알고리즘 및 Javascript 기초강의](./lec/lec001.md)
+- [하노이의 탑 Tower of Hanoi](./lec/lec002.md)
 
 ### 실습 2020-07-31
 
