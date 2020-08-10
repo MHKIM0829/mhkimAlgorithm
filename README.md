@@ -2,8 +2,11 @@
 
 ### 알고리즘 기본강의
 
-- [알고리즘 및 Javascript 기초강의](./lec/lec001.md)
-- [Javascript this 와 하노이의 탑 Tower of Hanoi](./lec/lec002.md)
+| 강의 목록                                                        |
+| :--------------------------------------------------------------- |
+| [01. 알고리즘 및 Javascript 기초강의](./lec/lec001.md)               |
+| [02. Javascript this 와 하노이의 탑 Tower of Hanoi](./lec/lec002.md) |
+| [03. 정렬 - 선택정렬(Selection Sort)](./lec/lec_SelectionSort.pdf)   |
 
 ### 실습 2020-07-31
 
