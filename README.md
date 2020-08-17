@@ -9,7 +9,7 @@
 | [03. 하노이의 탑 Tower of Hanoi](./lec/lec_Hanoi.pdf)  |
 | [04. 정렬 - 선택/삽입/버블정렬](./lec/lec_Sort.pdf)    |
 | [05. 정렬 - 퀵정렬](./lec/lec_Sort_2.pdf)              |
-| [06. 정렬 - 퀵정렬](./lec/lec_Tree.pdf)                |
+| [06. 탐색 - 트리](./lec/lec_Tree.pdf)                |
 
 ### 실습 2020-07-31
 
